@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Mariana</h1>
-<h3 align="left">A newby developer from Argentina</h3>
+<h3 align="left">A newby developer from Argentina always looking for new opportunities. If you have some interesting project on mind, contact me!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marurevi&label=Profile%20views&color=0e75b6&style=flat" alt="marurevi" /> </p>  
 
