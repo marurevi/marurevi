@@ -1,6 +1,6 @@
 <h1 align="left">Hi 👋, I'm Mariana</h1>
 <h3 align="center">A newby developer from Argentina always looking for new opportunities.</h3>
-<h2 align="center">If you have some interesting project on mind, contact me!</h2>
+<h2 align="center">"It's not just about ideas. It's about making ideas happen" Let's do it!!! 🚀</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marurevi&label=Profile%20views&color=0e75b6&style=flat" alt="marurevi" /> </p>  
 
@@ -18,6 +18,8 @@
   <tr>
     <td><p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marurevi&langs_count=10&theme=tokyonight&layout=compact" alt="marurevi :: Top Langs" /></p></td>
     <td><p align="center"><img src="https://github-readme-stats.vercel.app/api?username=marurevi&show_icons=true&theme=synthwave" alt="marurevi :: Profile Stats" /></p></td>
-    <td><p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marurevi&" alt="marurevi" /></p></td>
+  </tr>
+  <tr>
+    <td spancolumn="2"><p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marurevi&" alt="marurevi" /></p></td>
   </tr>
  </table>
