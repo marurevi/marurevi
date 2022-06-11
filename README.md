@@ -10,7 +10,6 @@
 <p align="center">
 <a href="https://twitter.com/@marurevilla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@marurevilla" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/mariana-revilla-lerida/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mariana-revilla-lerida" height="30" width="40" /></a>
-</p>
 <a href="https://angel.co/u/mariana-revilla-lerida" target="blank"><img align="center" src="https://user-images.githubusercontent.com/92180054/173208675-e748a4b7-112e-49a4-8779-0d8bd32d303d.svg" alt="mariana-revilla-lerida" height="30" width="40" /></a>
 </p>
 
