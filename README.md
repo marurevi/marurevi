@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marurevi&label=Profile%20views&color=0e75b6&style=flat" alt="marurevi" /> </p>  
 
 💬 Ask me about **JavaScrip, Python**  |  📫 How to reach me **maryrev@hotmail.com**
-<h3 align="left">Portfolio: See some of my work [here](https://marianarevilla.netlify.app/)</h3>
+<h3 align="left">Portfolio: See some of my work <a href="https://marianarevilla.netlify.app/">here</a></h3>
 <h3 align="left">Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/@marurevilla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@marurevilla" height="30" width="40" /></a>
