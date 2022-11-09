@@ -2,6 +2,7 @@
 <h3 align="center">A newby developer from Argentina always looking for new opportunities.</h3>
 <marquee width="100%" direction="left" height="100px">
   <h2 align="center">"It's not just about ideas. It's about making ideas happen" Let's do it!!! 🚀</h2>
+  
 </marquee>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marurevi&label=Profile%20views&color=0e75b6&style=flat" alt="marurevi" /> </p>  
 
